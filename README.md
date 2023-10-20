@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" height="329" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🔭 I’m currently working on [Chat Gpt](https://github.com/ankushsingh7997/summerCodeProjectBackend.git)
+- 🔭 I’m currently working on [](https:FinTarget//fintarget.in/)
 
 - 🌱 I’m currently learning **NodeJS, express**
 
